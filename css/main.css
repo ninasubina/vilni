@@ -18,13 +18,16 @@ header {
 }
 .about-us {
     margin-top: 45px;
+    width: 73px;
 }
 .results {
     margin-top: 45px;
+    width: 82px;
 }
 .donate {
     margin-right: 45px;
     margin-top: 30px;
+    width: 143px;
 }
 /* second */
 .second {
