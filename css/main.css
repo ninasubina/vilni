@@ -1,0 +1,221 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    width: 1024px;
+    margin: 0 auto; 
+}
+/* header */
+header {
+    height: 108px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.logo-main {
+    width: 167px;
+    height: 97px;
+    margin-top: 25px;
+}
+.about-us {
+    margin-top: 45px;
+}
+.results {
+    margin-top: 45px;
+}
+.donate {
+    margin-right: 45px;
+    margin-top: 30px;
+}
+/* second */
+.second {
+    height: 500px;
+    background-color: #D9D9D9;
+    margin: 0;
+}
+.second .title {
+    text-align: center;
+    padding-top: 220px;
+}
+h1 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+}
+p {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}
+/* images scroll */
+.images-scroll {
+    height: 500px;
+    background-color: #A7A7A7;
+}
+.photo-scroll {
+    width: 938px;
+    padding: 35px 43px 30px 43px;
+}
+/* fourth */
+.fourth {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.handshake {
+    width: 40px;
+    padding-top: 20px;
+}
+.hand-text {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    width: 692px;
+    margin: 20px auto;
+}
+.line {
+    width: 246px;
+    margin: -15px auto;
+    color:  #FFC942;
+}
+/* mission */
+.mission {
+    height: 365px;
+    background: #FFC942;
+    margin-top: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mission-box {
+    width: 938px;
+    height: 307px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.mission-all-text {
+    display: flex;
+    justify-content: space-around;
+}
+.mission-title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}
+.mission-text {
+    width: 296px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+}
+.mission-list {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+}
+/* partners */
+.partners {
+    width: 1024px;
+    height: 341px;
+    background: #F7F7F7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.partners-box {
+    width: 938px;
+    height: 223px;
+    background: #ADADAD;
+}
+.partners-title {
+    text-align: center;
+    font-size: 40px;
+    margin: 35px auto;
+}
+.partners-links {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-top: 40px;
+}
+.united {
+    width: 400px;
+    padding-top: 15px;
+}
+.newkraine {
+    max-width: 300px;
+}
+/* info */
+.info {
+    height: 200px; 
+    background: #323232;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.info-logo img {
+    width: 145px;
+    height: 85px;
+}
+.info-logo p {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+    width: 240px;
+}
+.info-us h3 {
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.button-team {
+    width: 110px;
+}
+.info-contacts h3 {
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.contact-link {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;  
+    color: #FFFFFF;
+}
+.info-donate {
+    margin: 0;
+}
+/* footer */
+footer {
+    height: 40px;
+    background: #C1C1C1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.credits {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin: 0;
+    padding-left: 20px;
+}
+.by {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    margin: 0;
+    padding-right: 20px;
+}
